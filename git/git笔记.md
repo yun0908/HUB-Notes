@@ -52,9 +52,9 @@
 		git pull 别名 远程分支名            将远程仓库对于分支最新内容拉取到本地，并与其合并
 
 - 1) 创建远程仓库
-			![[image/Pasted image 20250126193040.png]]
+			![[image/2.png]]
 		- 自动跳转到下面页面：
-		![[image/Pasted image 20250126193132.png]]
+		![[image/3.png]]
 - 2) 初始化本地仓库
 		git init
 - 3) 添加别名
