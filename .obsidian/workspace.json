@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "896fc726feeda53f",
+    "type": "split",
+    "children": [
+      {
+        "id": "82a305bd806a3e19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2600374d7eec8f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3db36ff4a7bf899f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cdd4f6167b57820",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f54c031ccac11f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6c554eb9fd5c900a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#一",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9bca820c5a1ba9b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "31ae701c4b19583c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d59a2f4774afc377",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e8fc59c961a21f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "ca0798bedcd8b8dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "df3de8e4f2ebbbc8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4e079a67bf672261",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c2600374d7eec8f2",
+  "lastOpenFiles": [
+    "makedown/Markdown【从入门到精通一篇就够了】.md",
+    "git/git.md",
+    "Pasted image 20250126120323.png",
+    "git",
+    "Pyside6/具身机器人上位机手册.md",
+    "Pyside6/具身机器人上位机手册 1.md",
+    "Pyside6/pyside6笔记.md",
+    "Pyside6/Ubuntu pyside6 vscode 安装与配置.md",
+    "Pyside6/Ubuntu pyside6 vscode 安装与配置 1.md",
+    "Pyside6/多线程视频播放_pyqt 多线程.md",
+    "未命名.md",
+    "makedown/未命名.md",
+    "7-simpread",
+    "makedown",
+    "欢迎.md",
+    "Pyside6"
+  ]
+}
