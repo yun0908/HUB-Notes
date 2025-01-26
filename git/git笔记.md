@@ -13,7 +13,7 @@
 ## 二、流程
 ### 1、初始化本地库
 #### git init
-![[Pasted image 20250126120323.png]]
+![](image/1.png)
 ### 2、暂存区
 - git add 文件名                                    添加到缓存区
 - git rm --cached 文件名                       从缓存区删除
@@ -44,6 +44,34 @@
 		git add 文件名
 - 3) 执行提交（注意：此时使用 git commit 命令 不能带文件名）
 ### 6、Github操作
+		
+		git remote -v                    查看当前所有远程地址别名
+		git remote add 别名 远程地址       起别名
+		git push 别名 分支                 推送本地分支上的内容到远程仓库
+		git clone 远程地址                 将远程仓库的内容克隆到本地
+		git pull 别名 远程分支名            将远程仓库对于分支最新内容拉取到本地，并与其合并
+
 - 1) 创建远程仓库
-			
-- 
+			![[image/Pasted image 20250126193040.png]]
+		- 自动跳转到下面页面：
+		![[image/Pasted image 20250126193132.png]]
+- 2) 初始化本地仓库
+		git init
+- 3) 添加别名
+		git remote add 别名 连接地址
+- 4) 配置SSH密钥
+	1、生成密钥对
+		```ssh-keygen -C "comment"```     comment为备注，可写可不写
+	2、获取密钥
+		进入用户目录，.ssh文件夹
+		打开id_rsa.pub，复制
+	3、Github，settings，SSH and GPG Keys, New SSH Keys :输入密钥
+- 5) 提交推送
+	```git add .```
+	eg:```    git add .                          提交所有修改的和新建的数据暂存区
+         git add -u <==> git add –update    提交所有被删除和修改的文件到数据暂存区
+         git add -A <==>git add –all        提交所有被删除、被替换、被修改和新增的文件到数据暂存区```
+- 6) 提交文件
+   ```git commit -m "comment"```
+- 7) 推送
+  ```git push -u 别名 master```

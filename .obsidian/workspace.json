@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "82a305bd806a3e19",
+        "id": "17a1a5819495b647",
         "type": "tabs",
         "children": [
           {
-            "id": "c2600374d7eec8f2",
+            "id": "888df2111219adc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/git.md",
+                "file": "git/git笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git"
+              "title": "git笔记"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "31ae701c4b19583c",
@@ -159,11 +158,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c2600374d7eec8f2",
+  "active": "888df2111219adc2",
   "lastOpenFiles": [
+    "git/image/Pasted image 20250126193030.png",
+    "git/image/Pasted image 20250126193040.png",
+    "git/image/Pasted image 20250126193132.png",
+    "git/git笔记.md",
+    "git/image/1.png",
+    "image/Pasted.md",
+    "image",
     "makedown/Markdown【从入门到精通一篇就够了】.md",
-    "git/git.md",
-    "Pasted image 20250126120323.png",
+    "git/image",
+    "未命名",
+    "git/image",
+    "欢迎.md",
     "git",
     "Pyside6/具身机器人上位机手册.md",
     "Pyside6/具身机器人上位机手册 1.md",
@@ -175,7 +183,6 @@
     "makedown/未命名.md",
     "7-simpread",
     "makedown",
-    "欢迎.md",
     "Pyside6"
   ]
 }
